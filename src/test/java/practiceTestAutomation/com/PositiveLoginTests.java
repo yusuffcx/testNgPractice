@@ -52,11 +52,5 @@ public class PositiveLoginTests {
         {
             System.out.println("logOut btn is being displayed.");
         }
-
-
-
     }
-
-
-
 }
