@@ -59,7 +59,5 @@ public class NegativeLoginTest
             if(errorUsername.getText().equals("Your password is invalid!")) {
                 System.out.println("error msg for the password.");
             }
-
-
         }
 }
